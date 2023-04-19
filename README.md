@@ -21,7 +21,7 @@ const rosanna = {
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
-You can find me 🌎:
+## You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rosanna-contasti/) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
