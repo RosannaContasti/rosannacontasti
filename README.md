@@ -1,5 +1,5 @@
 ### Hi, Im Rosanna. 
-Fullstack Developer 👋 👩‍ 💻
+###Fullstack Developer 👋 👩‍ 💻
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ```javascript
 const rosanna = {
@@ -20,7 +20,7 @@ const rosanna = {
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
-## Find me around the web 🌎:
+### Find me around the web 🌎:
 - [LinkedIn](https://www.linkedin.com/in/rosanna-contasti/) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
