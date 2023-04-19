@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Im Rosanna 👋
 
 <!--
 **RosannaContasti/rosannacontasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![WhatsApp Image 2023-04-19 at 5 05 45 PM](https://user-images.githubusercontent.com/90112132/233188113-6e2594b7-35ac-4f12-a26b-8a40608dc5d9.jpeg)
+
 ```javascript
 const rosi = {
   pronouns: "she" | "her",
