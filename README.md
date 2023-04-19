@@ -23,6 +23,6 @@ const rosanna = {
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/rosanna-contasti/) 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Rosanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosannacontasti&show_icons=true&theme=dracula)
