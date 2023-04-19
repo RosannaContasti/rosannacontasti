@@ -1,5 +1,5 @@
 ## Hi, Im Rosanna!👩‍💻
-### Fullstack Developer and a Javascript lover 🖤
+### Fullstack Developer
 
 ```javascript
 const rosanna = {
