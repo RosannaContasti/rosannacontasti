@@ -6,7 +6,7 @@ const rosanna = {
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech", "app dev"],
   technologies: {
-  frontEnd: {
+        frontEnd: {
             js: ["react"],
             css: ["bootstrap", "MUI"]
         },
