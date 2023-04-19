@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```javascript
 const rosi = {
   pronouns: "she" | "her",
   code: ["Javascript", "HTML", "CSS"],
@@ -32,3 +32,4 @@ const rosi = {
   architecture: ["Single page applications"],
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
+```
