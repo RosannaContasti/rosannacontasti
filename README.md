@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const rosi = {
+  pronouns: "she" | "her",
+  code: ["Javascript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+  frontEnd: {
+            js: ["react"],
+            css: ["bootstrap", "MUI"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+  },
+  databases: ["mongo", "postgreSQL"],
+  architecture: ["Single page applications"],
+  funFact: "There are two ways to write error-free programs; only the third one works"
+}
