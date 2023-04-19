@@ -1,5 +1,5 @@
-### Hi, Im Rosanna Fullstack Developer👋 👩‍💻
-
+### Hi, Im Rosanna Fullstack Developer 👋 👩‍ 💻
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ```javascript
 const rosanna = {
   pronouns: "she" | "her",
