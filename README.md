@@ -1,4 +1,4 @@
-## Hi, Im Rosanna!👩‍💻
+## Hi, I'm Rosanna!👩‍💻
 ### Fullstack Developer
 
 ```javascript
