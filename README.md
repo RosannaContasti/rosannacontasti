@@ -4,11 +4,11 @@
 ```javascript
 const rosanna = {
   pronouns: "she" | "her",
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript",Typescript],
   askMeAbout: ["web dev", "tech", "app dev"],
   technologies: {
         frontEnd: {
-            js: ["react"],
+            js: ["react, react-native"],
             css: ["bootstrap", "MUI"]
         },
         backEnd: {
